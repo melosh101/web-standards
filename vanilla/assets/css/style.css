@@ -1,4 +1,4 @@
-@layer reset, components, utilities;
+@layer reset, components, utilities, base;
 
 @import url("reset.css") layer(reset);
 @import url("util.css") layer(utilities);

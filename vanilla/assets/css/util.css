@@ -1,0 +1,59 @@
+.flex {
+    display: flex;
+}
+.block {
+    display: block;
+}
+
+.justify-center {
+    justify-content: center;
+}
+.justify-between {
+    justify-content: space-between;
+}
+
+.relative {
+    position: relative;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.gap-4 {
+    gap: 1rem;
+}
+
+.m-auto {
+    margin: auto;
+}
+.my-auto {
+    margin-block: auto;
+}
+.mx-auto {
+    margin-inline: auto;
+}
+
+
+.text-center {
+    text-align: center;
+}
+.text-2xl {
+    font-size: 1.5rem;
+}
+
+.flex-grow {
+    flex-grow: 1;
+}
+
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border-width: 0;
+}

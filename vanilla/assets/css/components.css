@@ -1,0 +1,16 @@
+.card {
+    padding: 1.5rem;
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.card-footer {
+    margin-top: auto;
+}
